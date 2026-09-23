@@ -17,6 +17,7 @@ Thanks for stopping by! I build open-source dimensional research at **PegaConste
 **Want to go deeper?**
 - [tesseract-medium](https://github.com/Immaculate1022/tesseract-medium) — 4D non-orientable fractal geometry substrate
 - [IOF-Resonance-Core](https://github.com/Immaculate1022/IOF-Resonance-Core) — high-dimensional resonance platform
+- [Resonance Algebra Lab](https://github.com/Immaculate1022/IOF-Resonance-Core/blob/main/examples/resonance_algebra_lab.py) — a playful, rule-based symbolic transformation experiment; no dependencies required
 - [moebius-llama](https://github.com/Immaculate1022/moebius-llama) — self-reflective transformer architecture
 - [iof-resonant-hardware](https://github.com/Immaculate1022/iof-resonant-hardware) — portable sub-7Hz resonant hardware
 
