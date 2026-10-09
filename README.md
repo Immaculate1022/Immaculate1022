@@ -25,6 +25,12 @@ Built in Princeton, NC — open for education, remixing, and collaboration.
 
 — Gregory / PegaConstellation
 
+**The whole shelf in one download:** [The Infinite Optical Fabric V.1](https://infinitefabric.gumroad.com/l/lfgis) — the complete portfolio curated into one collection (name-your-price, $15 minimum). Everything stays free here on GitHub; the collection is for anyone who wants it all at once and to support the work.
+
+**Start here — the unified app:** [The Constellation](https://immaculate1022.github.io/The-Constellation) — all 27 repos woven into one interactive app.
+
+**Sponsors:** my GitHub Sponsors application is in progress — the Sponsor buttons on the repos go live as soon as GitHub approves.
+
 ---
 
 ### Main Projects
